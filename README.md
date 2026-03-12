@@ -19,7 +19,7 @@ The goal of this project was to practice frontend development by recreating the 
 
 ## 📸 Screenshot
 
-![Swiggy Clone Screenshot](swiggy screenshot.png)
+![Swiggy Clone Screenshot](swiggyscreenshot.png)
 
 ## 💡 Learning Outcome
 
